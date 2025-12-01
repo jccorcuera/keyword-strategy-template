@@ -18,7 +18,7 @@ A practical keyword strategy template to help you plan, group, and prioritize ke
 ## About
 
 Created by Johny Corcuera — SEO Specialist in the Philippines.  
-[Visit my website for more SEO resources](https://jccorcuera.seospecialist.site/).
+[Visit my website for more SEO resources](https://jccorcuera.com/).
 
 ## License
 
